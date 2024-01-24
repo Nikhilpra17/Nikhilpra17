@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Redux**
 
-- 👯 I’m looking to collaborate on **Full-Stack Project**
+- 👯 I’m looking to collaborate on **Open-Source projects and Full time role as a Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhilpra17](https://github.com/Nikhilpra17)
 
