@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Redux**
 
-- 👯 I’m looking to collaborate on **Open-Source projects and Full time role as a Software Engineer**
+- 👯 I’m looking to collaborate on **Open-Source projects and Full-time role as a Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhilpra17](https://github.com/Nikhilpra17)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **pratapnikhil106@gmail.com**
 
-- ⚡ Fun fact **Coding is like curating music 🎶 – Python's my soothing indie vibes, JavaScript brings energetic pop chords, and Problem solving sets the Binaural theme. It's not just code; it's my personalized music composition. 🚀💻**
+- ⚡ Fun fact:  **Coding is like curating music 🎶 – Python's my soothing indie vibes, JavaScript brings energetic pop chords, and Problem-solving sets the Binaural theme. It's not just code; it's my personalized music composition. 🚀💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
