@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LuxeLane](https://github.com/Nikhilpra17/LuxeLane.git)(Its a Fullstack E-commerce website, having React-based Frontend, NodeJS-ExpressJS Backend, and MongoDB-powered database)
+- 🔭 I’m currently working on [LuxeLane](https://github.com/Nikhilpra17/LuxeLane.git)( **Its a Fullstack E-commerce website, having React-based Frontend, NodeJS-ExpressJS Backend, and MongoDB-powered database** )
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Redux**
 
