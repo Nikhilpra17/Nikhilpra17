@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Pratap Singh</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">An enthusiastic FullStack Developer hailing from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif" >
 
